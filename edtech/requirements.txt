@@ -1,0 +1,5 @@
+google-search-results
+praw
+prawcore
+openai>=1.40 
+tenacity
